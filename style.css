@@ -1,0 +1,11 @@
+canvas#back_canvas {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+canvas#front_canvas {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
